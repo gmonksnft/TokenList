@@ -67,7 +67,7 @@
         "symbol": "XIL",
         "decimals": 18,
         "chainId": 80001,
-        "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
+        "logoURI": "https://raw.githubusercontent.com/gmonksnft/TokenList/main/XILS-img/XILSToken.png"
       }	  
     ]
   }
